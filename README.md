@@ -10,3 +10,5 @@
 
 ### Contact
 📧 jackhfernandez@hotmail.com 
+🔗 [Linkedin](https://www.linkedin.com/in/jackhfernandez/)
+🔗 [X](https://twitter.com/jackfernandezr)
