@@ -1,22 +1,10 @@
-
-💻 **Software developer**
-📝 **Lifelong Learning**
-🌱 **I’m currently learning backend with node.js**
-👓 **Tech lover**
-🏎️ **F1 fan**
-
-### Contact
-📧 jackhfernandez@hotmail.com 
-🔗 [Linkedin](https://www.linkedin.com/in/jackhfernandez/)
-🔗 [X](https://twitter.com/jackfernandezr)
-
 # Hi there, I'm Jack Fernandez 👋
 
 ## About Me
-I am a passionate student of software development.
-I am currently studying at the Universidad Nacional Pedro Ruiz Gallo (UNPRG).
-I am learning various programming languages ​​and technologies. 
-I love learning topics related to the world of software development.
+💻 I am a passionate student of software development.
+🌱 I am currently studying at the Universidad Nacional Pedro Ruiz Gallo (UNPRG).
+📝 I am learning various programming languages ​​and technologies. 
+👓 I love learning topics related to the world of software development.
 
 ## Languages and Tools
 - **Languages**: 
