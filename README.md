@@ -1,10 +1,10 @@
 # Hi there, I'm Jack Fernandez 👋
 
 ## About Me
-💻 I am a passionate student of software development.
-🌱 I am currently studying at the Universidad Nacional Pedro Ruiz Gallo (UNPRG).
-📝 I am learning various programming languages ​​and technologies. 
-👓 I love learning topics related to the world of software development.
+💻 I am a passionate student of software development.<br>
+🌱 I am currently studying at the Universidad Nacional Pedro Ruiz Gallo (UNPRG).<br>
+📝 I am learning various programming languages ​​and technologies.<br>
+👓 I love learning topics related to the world of software development.<br>
 
 ## Languages and Tools
 - **Languages**: 
